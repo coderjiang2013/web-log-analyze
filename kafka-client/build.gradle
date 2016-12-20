@@ -11,8 +11,3 @@ dependencies {
     compile group: 'org.apache.kafka', name: 'kafka-clients', version: '0.10.1.0'
     compile project(":file-watch")
 }
-//创建src目录
-task "create-dirs" << {
-    sourceSets*.java.srcDirs*.each { it.mkdirs() }
-    sourceSets*.resources.srcDirs*.each { it.mkdirs() }
-}
