@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/file-watch/file-watch.iml" filepath="$PROJECT_DIR$/.idea/modules/file-watch/file-watch.iml" group="file-watch" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/file-watch/file-watch_main.iml" filepath="$PROJECT_DIR$/.idea/modules/file-watch/file-watch_main.iml" group="file-watch" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/file-watch/file-watch_test.iml" filepath="$PROJECT_DIR$/.idea/modules/file-watch/file-watch_test.iml" group="file-watch" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-client/kafka-client.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-client/kafka-client.iml" group="kafka-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-client/kafka-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-client/kafka-client_main.iml" group="kafka-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-client/kafka-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-client/kafka-client_test.iml" group="kafka-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-log-analyze.iml" filepath="$PROJECT_DIR$/.idea/modules/web-log-analyze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-log-analyze_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web-log-analyze_main.iml" group="web-log-analyze" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-log-analyze_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web-log-analyze_test.iml" group="web-log-analyze" />
+    </modules>
+  </component>
+</project>
